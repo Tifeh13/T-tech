@@ -1,5 +1,6 @@
 import logo from "./images/logo.png";
 import bannerImg from "./images/bannerImg.png";
+import Tifeh from "./images/Tifeh.jpg";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
@@ -18,4 +19,5 @@ export {
   testimonialTwo,
   quote,
   contactImg,
+  Tifeh
 };
