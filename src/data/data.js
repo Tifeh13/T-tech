@@ -12,7 +12,7 @@ export const featuresData = [
   {
     id: 2,
     icon: <AiFillAppstore />,
-    title: "App Development",
+    title: "Web Development",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
