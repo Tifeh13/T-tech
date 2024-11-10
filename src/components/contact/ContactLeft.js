@@ -16,8 +16,7 @@ const ContactLeft = () => {
           Front-end Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        Passionate front-end developer with a keen eye for creating clean, responsive, and user-friendly interfaces. Experienced in using animation and purposeful design to craft engaging and efficient user experiences. Skilled in JavaScript, CSS, and modern frameworks like React.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
             Phone: 

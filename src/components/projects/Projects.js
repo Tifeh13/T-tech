@@ -29,7 +29,7 @@ const Projects = () => {
           src={projectTwo}
         />
         <ProjectsCard
-          title="Chatting App"
+          title="Thatboy Portfolio"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectThree}
