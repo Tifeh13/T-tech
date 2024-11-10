@@ -28,12 +28,15 @@ const Projects = () => {
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
         />
-        <ProjectsCard
-          title="Thatboy Portfolio"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
-        />
+        
+     <a href="https://thatboy.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <ProjectsCard
+    title="Thatboy Portfolio"
+    des="A visual journey through unique perspectives, capturing authentic moments with creativity and depth. Explore a world where every shot tells its own story!"
+    src={projectThree}
+  />
+</a>
+
         <ProjectsCard
           title="SOCIAL MEDIA CLONE"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
