@@ -54,7 +54,7 @@ const Education = () => {
             title="Web Developer"
             subTitle="Intern, Fireswitch Technologies - (2022 - 2023)"
             result="IBADAN"
-            des="This innovative technology company is focused on developing cutting-edge solutions to transform industries through advanced software, hardware, and artificial intelligence. Founded with a vision to create a more connected and efficient world, the company has quickly become a leader in its field. Its products range from consumer electronics and software applications to large-scale enterprise solutions that improve productivity, streamline operations, and enhance user experiences.."
+            des="This innovative technology company is focused on developing cutting-edge solutions to transform industries through advanced software, hardware, and artificial intelligence."
           />
           <ResumeCard
             title="Front-end Developer"
