@@ -45,8 +45,8 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineer"
-            subTitle="Google Out Tech - (2022 - Present)"
+            title="Frontend Engineer"
+            subTitle="Freelancer - (2023 - Present)"
             result="Work in progress"
             des="Working on personal project and also learning while being a free-lancer."
           />

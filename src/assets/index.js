@@ -4,6 +4,9 @@ import Tifeh from "./images/Tifeh.jpg";
 import projectOne from "./images/projects/projectOne.png";
 import projectTwo from "./images/projects/projectTwo.png";
 import projectThree from "./images/projects/projectThree.jpg";
+import projectFour from "./images/projects/projectFour.png";
+import projectFive from "./images/projects/projectFive.png";
+import projectSix from "./images/projects/projectSix.png";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
@@ -15,6 +18,9 @@ export {
   projectOne,
   projectTwo,
   projectThree,
+  projectFour,
+  projectFive,
+  projectSix,
   testimonialOne,
   testimonialTwo,
   quote,
